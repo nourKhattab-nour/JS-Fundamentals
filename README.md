@@ -63,3 +63,21 @@ guillaume@ubuntu:~/0x12$ node 7-multi_c.js
 Missing number of occurrences
 guillaume@ubuntu:~/0x12$ node 7-multi_c.js -3
 guillaume@ubuntu:~/0x12$ 
+
+
+guillaume@ubuntu:~/0x12$ node 8-square.js
+Missing size
+guillaume@ubuntu:~/0x12$ node 8-square.js School
+Missing size
+guillaume@ubuntu:~/0x12$ node 8-square.js 2
+XX
+XX
+guillaume@ubuntu:~/0x12$ node 8-square.js 6
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+XXXXXX
+guillaume@ubuntu:~/0x12$ node 8-square.js -3
+guillaume@ubuntu:~/0x12$ 
