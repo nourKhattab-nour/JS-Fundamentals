@@ -81,3 +81,14 @@ XXXXXX
 XXXXXX
 guillaume@ubuntu:~/0x12$ node 8-square.js -3
 guillaume@ubuntu:~/0x12$ 
+
+
+guillaume@ubuntu:~/0x12$ node 9-add.js 
+NaN
+guillaume@ubuntu:~/0x12$ node 9-add.js 1
+NaN
+guillaume@ubuntu:~/0x12$ node 9-add.js 1 7
+8
+guillaume@ubuntu:~/0x12$ node 9-add.js 13 89
+102
+guillaume@ubuntu:~/0x12$ 
