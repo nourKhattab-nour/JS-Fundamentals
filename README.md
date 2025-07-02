@@ -42,3 +42,9 @@ My number: 89
 guillaume@ubuntu:~/0x12$ node 5-to_integer.js School
 Not a number
 guillaume@ubuntu:~/0x12$ 
+
+guillaume@ubuntu:~/0x12$ node 6-multi_languages_loop.js 
+C is fun
+Python is cool
+JavaScript is amazing
+guillaume@ubuntu:~/0x12$ 
